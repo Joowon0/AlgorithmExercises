@@ -20,7 +20,7 @@ E(100) = 0010100001
 ```
 Note that the binary digits from the left corresponds the inclusion of F(2), F(3), F(4), ¡¦ etc.; it starts from F(2) since F(2) = 1.
 
-Write a program to print the binary encoding according to Zeckendorf. The encoding procedure can be performed in a greedy manner. To encode a positive integer N, find the biggest fibonacci number M less than or equal to N. If N ? M is not zero, repeat this procedure for N ? M. 
+Write a program to print the binary encoding according to Zeckendorf. The encoding procedure can be performed in a greedy manner. To encode a positive integer N, find the biggest fibonacci number M less than or equal to N. If N - M is not zero, repeat this procedure for N - M. 
 
 Your program should print the binary encoding according to Zeckendorf for given positive integer N. The input file contains N. Your program should print the binary encoding of N.
 

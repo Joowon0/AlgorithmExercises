@@ -1,11 +1,13 @@
 ## diameter.py
 
 Once the distance of two points  and  is defined as d(, ), the diameter of a set of points P can be defined as follows:
+```
 	D(P) = max { d(pi, pj) | pi, pj  P }
-
+```
 As you know, the distance of two points  and  in a 2-dimensional plane is defined as follows:
+```
 	d(p1, pj) = 
-
+```
 You would like to write a program calculating the diameter of a set of points in two dimensional space. For this, define and use the class Point representing the points in the two dimensional space.
 
 If you have two Point objects, p1 and p2, the distance d between these points may be calculated as follows: d = p1.dist(p2);
