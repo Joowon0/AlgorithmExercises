@@ -11,8 +11,7 @@ In the input file, each integer is given in a single line. Your program should w
 
 INPUT diff.inp     | OUTPUT diff.out    
 --- | ---
-31   | 40
--1   |
---- | ---
-17   | 12
-29   |
+31  \ | 40
+-1      |
+17   \| 12
+29      |
