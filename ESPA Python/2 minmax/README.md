@@ -9,6 +9,7 @@ In the input file, the integers are given in separate lines.
 
 Your program should write the minimum and the maximum in sequence for each output line. 
 
+
 INPUT | OUTPUT 
 --- | ---
 3 <br> -5         | -15 <br> 8
