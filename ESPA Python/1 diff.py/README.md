@@ -10,8 +10,6 @@ Assume the names of the input and the output files are ¡°diff.inp¡± and ¡°diff.o
 In the input file, each integer is given in a single line. Your program should write the difference in a single line.
 
 INPUT diff.inp     | OUTPUT diff.out    
---- | ---
-31  \ | 40
--1      |
-17   \| 12
-29      |
+---                   | ---
+31 <br> -1         | 40
+17 <br> 29         | 12
