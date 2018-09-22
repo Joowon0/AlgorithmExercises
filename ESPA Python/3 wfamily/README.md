@@ -7,7 +7,7 @@ Assume the names of the input and the output files are ¡°wfamily.inp¡± and ¡°wfa
 
 In the input file, two words are given in separate lines. Each word consists of small letters only. Your program should determine they are in the same family. Print ¡°YES¡± if they are; print ¡°NO¡± otherwise.
 
-INPUT wfamily.inp     | OUTPUT wfamily.out    
+INPUT | OUTPUT 
 --- | ---
 lots <br> lost         | YES
 boys <br> girl         | NO

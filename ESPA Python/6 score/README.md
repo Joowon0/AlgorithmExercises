@@ -22,7 +22,7 @@ Write a program calculating the total score according to Woo¡¯s scheme.
 
 Input file contains a single line containing the evaluation string which consists of only O and X. The length of the evaluation string is greater than 0 and less than 100.
 
-INPUT score.inp     | OUTPUT score.out    
+INPUT | OUTPUT 
 --- | ---
 OXOXOXO         | 4
 OOOOXXX          | 10

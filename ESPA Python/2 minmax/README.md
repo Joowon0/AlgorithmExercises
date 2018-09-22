@@ -8,7 +8,8 @@ Assume the names of the input and the output files are ¡°minmax.inp¡± and ¡°minm
 In the input file, the integers are given in separate lines.
 
 Your program should write the minimum and the maximum in sequence for each output line. 
-INPUT minmax.inp     | OUTPUT minmax.out    
+
+INPUT | OUTPUT 
 --- | ---
 3 <br> -5         | -15 <br> 8
 3 <br> -2         | -6   <br> 5

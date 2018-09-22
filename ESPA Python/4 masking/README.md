@@ -20,7 +20,7 @@ Your program should write the masking result of the input line to the output fil
 
 HINT: You may use the string method str.isdigit() to determine whether the character string str contains only digits.
 
-INPUT masking.inp     | OUTPUT masking.out    
+INPUT | OUTPUT 
 --- | ---
 I have only $2.00.         | I have only $*.**.
 10 is less than 123.       | ** is less than ***.
