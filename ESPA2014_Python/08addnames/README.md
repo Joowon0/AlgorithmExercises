@@ -3,9 +3,9 @@
 Assume that we can name a decimal digit. For example, the following naming is possible:
 ```
 tiger = 0, rabbit = 1, old = 2, wild = 3, east = 4, 
-happy = 5, sun = 6, moon = 7, dog = 8, and cat = 9.
+happy = 5, sun = 6, moon = 7, dog = 8, and cat = 9
 ```
-With this naming, the value of the name ¡°old rabbit¡± is 21 and ¡°wild dog,¡± 38.
+With this naming, the value of the name `old rabbit` is 21 and `wild dog`, 38.
 
 We can also define the addition of names, which consist of the words corresponding to digits, as the addition of the corresponding numeric values of the names. 
 

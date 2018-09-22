@@ -16,11 +16,5 @@ Your program should print the x- and y-indexes separated by a space. If there ar
 
 INPUT | OUTPUT 
 --- | ---
-2 9 3 6 10 1 7 <br>
-2 5 6 2 5 8 5 <br>
-4 7 5 9 12 20 3 <br>
-7 3 4 3 1 5 8 <br>
-6 7 8 4 9 30 11 | 5 3
-1 0 0 0 0 <br>
-0 1 0 0 0 <br>
-0 0 0 0 0 | 1 0
+2 9 3 6 10 1 7 <br> 2 5 6 2 5 8 5 <br> 4 7 5 9 12 20 3 <br> 7 3 4 3 1 5 8 <br> 6 7 8 4 9 30 11 | 5 3
+1 0 0 0 0 <br> 0 1 0 0 0 <br> 0 0 0 0 0 | 1 0

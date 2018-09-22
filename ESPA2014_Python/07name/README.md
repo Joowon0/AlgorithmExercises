@@ -3,7 +3,7 @@
 Assume that we can name a decimal digit. For example, the following naming is possible:
 ```
 tiger = 0, rabbit = 1, old = 2, wild = 3, east = 4, 
-happy = 5, sun = 6, moon = 7, dog = 8, and cat = 9.
+happy = 5, sun = 6, moon = 7, dog = 8, and cat = 9
 ```
 With this naming, we can evaluate a name consists of the above words. For example ¡°wild old tiger¡± corresponds to 320.
 

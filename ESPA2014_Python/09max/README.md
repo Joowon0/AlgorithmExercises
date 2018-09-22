@@ -14,10 +14,5 @@ In the input file, the elements of the matrix are given row by row. A line of th
 
 INPUT | OUTPUT 
 --- | ---
-20 10 7 <br>
-25 30 45 <br>
-10 9 13 <br> | 100
-0 1 2 25 <br>
-4 10 25 30 <br>
-7 50 ?5 -33 <br>
-25 ?10 -30 3 | 125
+20 10 7 <br> 25 30 45 <br> 10 9 13 <br> | 100
+0 1 2 25 <br> 4 10 25 30 <br> 7 50 -5 -33 <br> 25 -10 -30 3 | 125
